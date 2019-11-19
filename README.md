@@ -1,7 +1,5 @@
-# web-code-style
+# Web Code Syle (Clean Code)
 This is our Web Development Code Style
-
-# clean-code-javascript
 
 ## Índice
   1. [Introdução](#introdução)
